@@ -1,0 +1,11 @@
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\MyDocuments.DAL.dll.config
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\MyDocuments.DAL.dll
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\MyDocuments.DAL.pdb
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.dll
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.xml
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csproj.CoreCompileInputs.cache
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csproj.CopyComplete
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.dll
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.pdb

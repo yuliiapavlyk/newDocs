@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyDocuments.DAL.Repositories.Interfaces
 {
-    interface IUnitOfWork : IDisposable
+    public interface IUnitOfWork : IDisposable
     {
         IRepository<Document> Documents { get; }
         void Save();

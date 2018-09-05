@@ -41,9 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="DTO\DocumentDTO.cs" />
+    <Compile Include="Interfaces\IDocumentService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\BaseService.cs" />
+    <Compile Include="Services\DocumentService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyDocuments.DAL\MyDocuments.DAL.csproj">
@@ -51,5 +53,6 @@
       <Name>MyDocuments.DAL</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
