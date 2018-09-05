@@ -1,0 +1,12 @@
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\MyDocuments.DAL.dll.config
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\MyDocuments.DAL.dll
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\MyDocuments.DAL.pdb
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csprojAssemblyReference.cache
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csproj.CopyComplete
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.dll
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.pdb
