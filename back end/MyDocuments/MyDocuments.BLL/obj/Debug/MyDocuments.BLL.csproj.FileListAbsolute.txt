@@ -1,0 +1,12 @@
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.csprojAssemblyReference.cache
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.BLL.dll
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.BLL.pdb
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.DAL.dll
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.DAL.pdb
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.DAL.dll.config
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.csproj.CopyComplete
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.dll
+C:\Users\ypavly\Desktop\test\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.pdb
