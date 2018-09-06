@@ -4,7 +4,6 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using MyDocuments.BLL.Infrastructure;
 using MyDocuments.BLL.Interfaces;
 using MyDocuments.BLL.DTO;
 

@@ -31,9 +31,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Ninject, Version=3.3.4.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
-      <HintPath>..\packages\Ninject.3.3.4\lib\net45\Ninject.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -45,7 +42,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DTO\DocumentDTO.cs" />
-    <Compile Include="Infrastructure\ServiceModuleNinject.cs" />
     <Compile Include="Interfaces\IDocumentService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\BaseService.cs" />
@@ -56,9 +52,6 @@
       <Project>{83dd3389-92b9-4245-b2f4-4c6a0fc91ed6}</Project>
       <Name>MyDocuments.DAL</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
