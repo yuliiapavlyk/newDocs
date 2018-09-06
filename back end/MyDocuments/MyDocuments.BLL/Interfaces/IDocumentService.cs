@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyDocuments.BLL.Interfaces
 {
-    interface IDocumentService
+    public interface IDocumentService
     {
         IEnumerable<DocumentDTO> GetAllDocuments();
         DocumentDTO GetDocumentById(int id);

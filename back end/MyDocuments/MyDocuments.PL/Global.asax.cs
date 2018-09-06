@@ -1,7 +1,12 @@
 ﻿using System;
+using MyDocuments.PL.Dependencies;
+using MyDocuments.BLL.Infrastructure;
+using Ninject.Web.Mvc;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Ninject;
+using Ninject.Modules;
 using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
@@ -18,6 +23,11 @@ namespace MyDocuments.PL
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            NinjectModule documentModule = new DocumentBind();
+            NinjectModule serviceModule = new ServiceModuleNinject("DocumentContext");
+            var kernel = new StandardKernel(documentModule, serviceModule);
+            DependencyResolver.SetResolver(new NinjectDependencyResolver(kernel));
         }
     }
 }

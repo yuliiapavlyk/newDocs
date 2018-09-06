@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MyDocuments.DAL.Repositories
 {
-    public class UnitOfWork
+    public class UnitOfWork:IUnitOfWork
     {
         private DocumentContext db;
         private DocumentRepository documentRepository;
