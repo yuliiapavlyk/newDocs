@@ -15,14 +15,10 @@ namespace MyDocuments.PL.Controllers
         {
             ViewBag.Title = "Home Page";
 
-            var users = documentService.GetAllDocuments();
+            
             return View();
         }
-        IDocumentService documentService;
-        public HomeController(IDocumentService serv)
-        {
-            this.documentService = serv;
-        }
+        
         
     }
 }
