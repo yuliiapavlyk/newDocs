@@ -9,3 +9,4 @@ D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments
 D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csproj.CopyComplete
 D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.dll
 D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.pdb
+D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csprojAssemblyReference.cache
