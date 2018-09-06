@@ -10,3 +10,15 @@ D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments
 D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.csproj.CopyComplete
 D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.dll
 D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.pdb
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.BLL.dll
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.BLL.pdb
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.DAL.dll
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\EntityFramework.dll
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.DAL.pdb
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\MyDocuments.DAL.dll.config
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\bin\Debug\EntityFramework.xml
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.csprojAssemblyReference.cache
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.csproj.CoreCompileInputs.cache
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.csproj.CopyComplete
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.dll
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.BLL\obj\Debug\MyDocuments.BLL.pdb

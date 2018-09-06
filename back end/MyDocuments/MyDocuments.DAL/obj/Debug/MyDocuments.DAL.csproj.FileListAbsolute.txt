@@ -9,3 +9,15 @@ D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments
 D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csproj.CopyComplete
 D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.dll
 D:\alysy\test\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.pdb
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\MyDocuments.DAL.dll.config
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\MyDocuments.DAL.dll
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\MyDocuments.DAL.pdb
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.dll
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.xml
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csprojAssemblyReference.cache
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csproj.CoreCompileInputs.cache
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.csproj.CopyComplete
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.dll
+D:\testDocs\newDocs\back end\MyDocuments\MyDocuments.DAL\obj\Debug\MyDocuments.DAL.pdb
